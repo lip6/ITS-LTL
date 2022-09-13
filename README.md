@@ -1,3 +1,7 @@
+## Since Sept 2022 this repository has been merged into https://github.com/lip6/libITS
+
+This repository is now archived.
+
 # ITS-LTL
 
 ITS tools and SPOT combine to provide symbolic model-checking of LTL.
